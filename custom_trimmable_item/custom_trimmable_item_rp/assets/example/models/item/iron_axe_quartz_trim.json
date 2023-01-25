@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/iron_axe",
+    "layer1": "example:trims/items/axe_trim_quartz"
+  }
+}
