@@ -10,7 +10,7 @@
       ],
       "palette_key": "trims/color_palettes/trim_palette",
       "permutations": {
-        "ender_pearl": "example:trims/color_palettes/ender_pearl"
+        "ender": "example:trims/color_palettes/ender"
       }
     }
   ]

@@ -44,7 +44,7 @@
       }
     },
     {
-      "model": "example:item/iron_chestplate_ender_pearl_trim",
+      "model": "example:item/iron_chestplate_ender_trim",
       "predicate": {
         "trim_type": 0.85
       }
