@@ -1,0 +1,7 @@
+{
+  "asset_id": "example:stripes",
+  "description": {
+    "translate": "trim_pattern.example.stripes"
+  },
+  "template_item": "minecraft:stick"
+}
